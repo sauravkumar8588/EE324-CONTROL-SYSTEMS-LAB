@@ -1,3 +1,4 @@
+This repository contains the solutions and implementations for the lab experiments conducted in the EE324 course, Control Systems Laboratory,
 Control Systems Laboratory, offered at IIT Bombay. The course provides hands-on experience in applying control theory concepts to real-world systems.
 
 📁 Repository Structure
