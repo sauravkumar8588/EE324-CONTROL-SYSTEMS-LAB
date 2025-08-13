@@ -1,38 +1,34 @@
-EE324 Control Systems Laboratory – Solutions & Implementations
-This repository contains solutions, source code, simulations, and documentation for the lab experiments carried out as part of the EE324: Control Systems Laboratory at IIT Bombay.
-The course is designed to provide students with practical, hands-on experience in applying control theory to real-world engineering systems.
+# EE324: Control Systems Laboratory – IIT Bombay
 
-📁 Repository Structure
-Lab1/ – PID Control for Rotating Motor
-Implementation, tuning, and analysis of PID controllers applied to a motor system.
+This repository contains solutions, source code, simulation models, and experiment documentation for EE324: Control Systems Laboratory at IIT Bombay. The lab provides hands-on practice in control theory, bridging mathematical concepts to engineering implementation.
 
-Lab2/ – Line Follower Robot Using PID Control
-Design and programming of a robot that follows a line path using a PID feedback loop.
+---
 
-Lab3/ – LQR Control for Inverted Pendulum
-Development of Linear Quadratic Regulator (LQR) strategies for stabilizing an inverted pendulum.
+## 📚 Course Overview
 
-Lab4/ – Adaptive Filtering for Noise Cancellation in Headphones
-Application of adaptive filter algorithms to achieve active noise cancellation in audio systems.
+EE324 experiments include:
+- PID control for rotating motors
+- Line follower robot design and control
+- Linear Quadratic Regulator (LQR) on an inverted pendulum
+- Adaptive filtering for active noise cancellation in headphones
 
-Each lab folder contains:
-Source code files: (.cpp, .h, .m as relevant)
+---
 
-Simulation scripts and models
+## 📁 Repository Structure
 
-Experiment documentation and technical reports: Detailing setup, methodology, and results
+- `Lab1_PID_Motor/` : Motor PID control implementation and analysis
+- `Lab2_LineFollower/` : Robot design and PID-based control
+- `Lab3_LQR_Pendulum/` : LQR control for pendulum stabilization
+- `Lab4_Adaptive_Filter/` : Noise cancellation experiments and simulations
+- `Documentation/` : Lab reports, setup guides, and technical notes
 
-📚 Topics Covered
-PID Control: Fundamentals and tuning for dynamic systems
+---
 
-Line Follower Robot Design: Embedded control applications
+## 🔧 Getting Started
 
-LQR Control: Optimal control for unstable systems
+1. Clone/download this repository.
+2. Navigate to each lab folder for experiment-specific files and instructions.
+3. Run provided code and review documentation for setup and results.
 
-Adaptive Filtering for Noise Cancellation: Application of digital signal processing in control
 
-
-LQR Control
-
-Adaptive Filtering for Noise Cancellation
-
+*Explore practical control systems and real-world feedback in EE324!*
